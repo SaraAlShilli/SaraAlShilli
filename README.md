@@ -6,9 +6,9 @@ I'm an indie frontend developer, crafting my own digital world step by step. Fro
 
    <p align="left">
       <a href="https://github.com/SaraAlShilli?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/saraalshilli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/saraalshilli?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/saraalshilli?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SaraAlShilli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/SaraAlShilli?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SaraAlShilli?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -29,12 +29,11 @@ I'm an indie frontend developer, crafting my own digital world step by step. Fro
 
 ### 📊 Stats
 
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraalshilli&show_icons=true&theme=gruvbox)
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraAlShilli&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=saraalshilli&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=SaraAlShilli&theme=gruvbox&border_radius=4.5) -->
 
 #
 
 <details>
  <summary><h3>👨‍💻 Sara's Coding Journey</h3></summary>
-   I started my coding journey as ....
